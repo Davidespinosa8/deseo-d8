@@ -139,7 +139,7 @@ export default function Regalo() {
               {/* CORRECCIÓN: Eliminado conflicto text-white y text-yellow-400 */}
               <div className="flex flex-col"><span className="text-yellow-400">{tiempoRestante.seg}</span><span className="text-[10px] text-gray-500 uppercase font-sans">Seg</span></div>
             </div>
-            <p className="mt-8 text-gray-500 text-[10px] uppercase tracking-widest">D8 Creative © 2026</p>
+            <p className="mt-8 text-gray-500 text-[10px] uppercase tracking-widest">D8 Creative ©</p>
           </motion.div>
         ) : (
           <>
