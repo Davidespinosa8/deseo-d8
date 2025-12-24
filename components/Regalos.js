@@ -224,7 +224,7 @@ export default function Regalo() {
             </button>
             
             <div className="mt-8 text-[10px] text-gray-400 font-mono uppercase tracking-widest">
-              D8 Creative Lab
+              D8 Creative
             </div>
           </motion.div>
         )}
